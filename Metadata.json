@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel \u00d6rneling",
+    "ContentSize": 1598,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-ad-user/master/CreateADUser.ps1",
+    "DownloadCount": 3442,
+    "Id": "Create-AD-User-3a6ec727",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 126,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-11-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "With this runbook you will be able to automatically create an AD User in your on-prem AD. Just fill in the details highlighted in the script and you are ready to go.For a complete setup guide, go to https://github.com/DanielOrneling/OMS-Automation---Create-AD-User",
+    "Title": "Create AD User",
+    "UpdatedDate": "2016-5-11T00:00:00",
+    "Url": "https://github.com/azureautomation/create-ad-user",
+    "UserTags": "Azure, Microsoft Azure, Active Directory"
+}
